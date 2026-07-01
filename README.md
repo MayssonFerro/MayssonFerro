@@ -1,6 +1,6 @@
 <!-- Efeito de Digitação -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Olá,+meu+nome+é+Maysson+Ferro;Estudante+de+TADS;Dev+Full+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Olá,+meu+nome+é+Maysson;Estudante+de+TADS;Dev+Full+Stack" alt="Typing SVG" />
 </div>
 
 <hr>
