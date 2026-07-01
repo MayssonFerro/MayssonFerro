@@ -5,14 +5,14 @@
 
 <hr>
 
-<!-- Cards de Estatísticas e Linguagens (Servidor alternativo sem bloqueios) -->
+<!-- Cards de Estatísticas Alternativos e Altamente Estáveis -->
 <div align="center">
   
-  <!-- Seu GitHub Stats Card -->
-  <img height="180" src="https://github-readme-stats-readme-stats.vercel.app/api?username=MayssonFerro&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <!-- Seu Resumo Geral de Atividades -->
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MayssonFerro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
   
-  <!-- Seus Most Used Languages Card -->
-  <img height="180" src="https://github-readme-stats-readme-stats.vercel.app/api/top-langs/?username=MayssonFerro&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <!-- Suas Linguagens Mais Utilizadas -->
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MayssonFerro&layout=compact&theme=tokyonight" alt="Top Langs" />
 
 </div>
 
