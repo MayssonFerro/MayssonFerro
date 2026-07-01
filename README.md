@@ -1,24 +1,24 @@
-<!-- Efeito de Digitação (Funcionando!) -->
+<!-- Efeito de Digitação -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Olá,+meu+nome+é+Maysson;Desenvolvedor+e+Estudante" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3500&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Olá,+meu+nome+é+Maysson+Ferro;Dev+em+Formação" alt="Typing SVG" />
 </div>
 
 <hr>
 
-<!-- Cards de Estatísticas Alternativos e Altamente Estáveis -->
+<!-- Cards de Estatísticas -->
 <div align="center">
   
-  <!-- Seu Resumo Geral de Atividades -->
+  <!-- Resumo de Atividades -->
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MayssonFerro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
   
-  <!-- Suas Linguagens Mais Utilizadas -->
+  <!-- Linguagens Mais Utilizadas -->
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MayssonFerro&layout=compact&theme=tokyonight" alt="Top Langs" />
 
 </div>
 
 <br>
 
-<!-- ==================== SEÇÃO DE TECNOLOGIAS ==================== -->
+<!-- TECNOLOGIAS -->
 <div align="center">
 
   ### 🛠️ Tecnologias & Ferramentas
@@ -53,11 +53,10 @@
   <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 
 </div>
-<!-- ============================================================== -->
 
 <hr>
 
-<!-- Suas Redes Sociais -->
+<!-- Redes Sociais -->
 <div align="center">
   <a href="https://www.instagram.com/mayssonferro/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
